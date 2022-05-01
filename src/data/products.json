@@ -1,0 +1,62 @@
+[
+  {
+    "productId": "DEB6E3D7-680D-44C4-BC4C-B36CFB124804",
+    "productName": "Eau de source CRISTALINE",
+    "productPicture": "https://www.chapin-traiteur.com/55-large_default/cristaline.jpg",
+    "productPrice": 96
+  },
+  {
+    "productId": "1614F93D-ADAE-49CB-9B03-AC776FA99D99",
+    "productName": "Eau gazeuse minérale naturelle SALVETAT",
+    "productPicture": "https://raja.scene7.com/is/image/Raja/products/salvetat-eau-min-rale-naturelle-p-tillante-bouteille-50-cl_16544-00J.jpg?template=withpicto410&$image=asset3849706&$picto=NoPicto&hei=410&wid=410",
+    "productPrice": 300
+  },
+  {
+    "productId": "212A14C7-E781-4F4E-88CE-6D4D2AAF44FB",
+    "productName": "Eau aromatisée fraise VOLVIC JUICY",
+    "productPicture": "https://www.clicmarket.fr/4643-thickbox_default/12-bouteilles-de-volvic-juicy-citronnade-12-x-50-cl.jpg",
+    "productPrice": 112
+  },
+  {
+    "productId": "38451B30-7D8C-4533-BB04-A2513AAB1C16",
+    "productName": "Eau de source CRISTALINE",
+    "productPicture": "https://www.chapin-traiteur.com/55-large_default/cristaline.jpg",
+    "productPrice": 75
+  },
+  {
+    "productId": "C73B7E67-8FDD-4336-9FA3-AE154B3CC3DC",
+    "productName": "Eau de source CARREFOUR",
+    "productPicture": "https://media.carrefour.fr/medias/a4e08fd98a523af28a5e05832b1c7fd3/p_540x540/3270190113508-photosite-20201027-190207-0.jpg",
+    "productPrice": 150
+  },
+  {
+    "productId": "416C3141-1D94-4BF7-93E1-932EF0D8EF72",
+    "productName": "Eau gazeuse PERRIER",
+    "productPicture": "https://www.cdiscount.com/pdt2/6/0/4/1/700x700/per3701018004604/rw/perrier-menthe-1l-pack-de-6.jpg",
+    "productPrice": 336
+  },
+  {
+    "productId": "DA2536DB-94B7-4521-85EB-69D95D3F147D",
+    "productName": "Boisson concentrée orange s/sucres ajoutés",
+    "productPicture": "https://shop.cabf.eu/wp-content/uploads/2017/06/3258561300627_001.jpg",
+    "productPrice": 227
+  },
+  {
+    "productId": "2894056C-D783-46D6-ADF1-5FAAE9DCB503",
+    "productName": "Eau minérale naturelle VITTEL",
+    "productPicture": "https://fridg-front.s3.amazonaws.com/media/CACHE/images/products/vittel/b6c4eb125e1a20af3836990fe194ec60.jpg",
+    "productPrice": 246
+  },
+  {
+    "productId": "CAC1C405-F9AE-4232-A3E2-8F0FE1FA36FF",
+    "productName": "Eau gazeuse SAN PELLEGRINO",
+    "productPicture": "https://produits.bienmanger.com/39994-0w470h470_San_Pellegrino_Eau_Minerale_Gazeuse_Italie.jpg",
+    "productPrice": 354
+  },
+  {
+    "productId": "B6CE3BD2-C2AF-400C-BDF3-6DF2BACD6E7C",
+    "productName": "Eau gazeuse minérale naturelle Fines Bulles PERRIER",
+    "productPicture": "https://www.perrier.com/fr/sites/g/files/xknfdk441/files/Perrier_fines_bulles_BouteillePET_1L_FR_7613035833302_vue_FACE_0.jpg",
+    "productPrice": 54
+  }
+]
